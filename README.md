@@ -6,7 +6,3 @@
 Уверен, что с реальным опытом коммерческой разработки в короткие сроки смогу стать ценным участником команды. Мотивирован и заинтересован в быстром освоении новых инструментов. Умею учиться.
 
 Стек освоенных технологий: Python, PostgreSQL, SQLite, Django, Flask, Docker, Elasticsearch, Pytest.
-
-Мой тестовый проект:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onlysudden&repo=Intern-Test-Task)](https://github.com/Onlysudden/Intern-Test-Task)
