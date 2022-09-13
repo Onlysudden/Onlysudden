@@ -7,7 +7,7 @@
 
 Стек освоенных технологий: Python, PostgreSQL, SQLite, Django, DRF, Flask, Docker, Elasticsearch, Pytest, Unittest.
 
-Мои тестовые проекты:
+Мои тестовые проект:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onlysudden&repo=Intern-Test-Task)](https://github.com/Onlysudden/Intern-Test-Task)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onlysudden&repo=Banking-API-Service-Test-Task)](https://github.com/Onlysudden/Banking-API-Service-Test-Task)
